@@ -1,51 +1,51 @@
 /* GLOBAL */
 * {
   margin: 0;
-  padding: 0;
   text-decoration: none;
 }
 
 /* background */
-body {
-  font-family: 'Inter', sans-serif;
-  background-color: black;
-  background-position: center;
-  width: 619px;
-  height: 927px;
-  left: -113px;
-  top: 0px;
-  }
-
 .bebidas {
   background: url(../img/bebidas.jpg) no-repeat;
+  background-position-x: center;
+  background-color: black;
 }
 
 .cdm {
   background: url(../img/cdm.jpg) no-repeat;
+  background-position-x: center;
+  background-color: black;
 }
 
 .cf {
   background: url(../img/cafe.jpg) no-repeat;
+  background-position-x: center;
+  background-color: black;
 }
 
 .cha {
   background: url(../img/cha.jpg) no-repeat;
+  background-position-x: center;
+  background-color: black;
 }
 
 .doces {
   background: url(../img/doces.jpg) no-repeat;
+  background-position-x: center;
+  background-color: black;
 }
 
 .saladas {
   background: url(../img/saladas.jpg) no-repeat;
+  background-position-x: center;
+  background-color: black;
 }
 
 .tela {
-  position: absolute;
+  text-align: center;
+  margin: auto;
   width: 428px;
   height: 927px;
-  left: 0px;
-  top: 0px;
   background: rgba(0, 0, 0, 0.8);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);    
   backdrop-filter: blur(4px);
