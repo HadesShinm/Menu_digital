@@ -116,7 +116,6 @@ ul li {
 li .details {
   max-width: 240px;
   text-align: left;
-  
 }
 
 .details h3 {
@@ -127,6 +126,7 @@ li .details {
 
 .details p {
   color: #F2F2F2;
+  display: inline-flex;
   font-size: 14px;
   line-height: 21px;
 }
