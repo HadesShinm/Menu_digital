@@ -6,6 +6,9 @@
 }
 
 /* background */
+body {
+  display: flex;
+}
 .bebidas {
   background: url(../img/bebidas.jpg) no-repeat;
   background-position-x: center;
