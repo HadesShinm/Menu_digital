@@ -129,6 +129,7 @@ li .details {
   display: inline-flex;
   font-size: 14px;
   line-height: 21px;
+  line-break: normal;
 }
 strong {
   margin-left: auto;
