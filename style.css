@@ -9,9 +9,6 @@
   body {
     font-family: 'Inter', sans-serif;
     background: url(../img/fundo1.jpg) no-repeat;
-    
-    background-color: black;
-    background-position: center;
     width: 619px;
     height: 927px;
     left: -113px;
@@ -19,7 +16,6 @@
 }
 
   .tela {
-    position: absolute;
     width: 428px;
     height: 927px;
     left: 0px;
